@@ -1,0 +1,112 @@
+commit 769277efbcdc8b3fd3359e4417104f9694869965
+Author: Valtteri Olejniczak <valtteri.olejniczak@outlook.com>
+Date:   Tue Mar 17 18:48:39 2020 +0200
+
+    poistettiin file1 ja vaihdettiin file2 nimeksi file22
+
+ tiedostoja/file1 | 0
+ tiedostoja/file2 | 0
+ 2 files changed, 0 insertions(+), 0 deletions(-)
+
+commit 1d3c901891ec5b79227d7a4d545a5cd64f7a52f4
+Author: Valtteri Olejniczak <valtteri.olejniczak@outlook.com>
+Date:   Tue Mar 17 18:32:42 2020 +0200
+
+    lisättiin kansio tiedostoja
+
+ tiedostoja/file1 | 0
+ tiedostoja/file2 | 0
+ tiedostoja/file3 | 0
+ 3 files changed, 0 insertions(+), 0 deletions(-)
+
+commit 36f099acf2039d0e448f443646352322aaa781fe
+Author: Valtteri Olejniczak <valtteri.olejniczak@outlook.com>
+Date:   Tue Mar 17 18:05:17 2020 +0200
+
+    muutettiin tiedostoja eka.txt ja kolmas.txt
+
+ eka.txt    | 4 ++--
+ kolmas.txt | 1 +
+ 2 files changed, 3 insertions(+), 2 deletions(-)
+
+commit 5d206dfe59d6c653967bf7c3c66ce72728475551
+Author: Valtteri Olejniczak <valtteri.olejniczak@outlook.com>
+Date:   Tue Mar 17 18:01:41 2020 +0200
+
+    Uudelleennimettiin tiedosto.txt eka.txt:ksi
+
+ tiedosto.txt => eka.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit dda54c43f4fb73689aae7001000b21de7591356d
+Author: Valtteri Olejniczak <valtteri.olejniczak@outlook.com>
+Date:   Tue Mar 17 17:57:29 2020 +0200
+
+    poistettiin toinen.txt
+
+ toinen.txt | 1 -
+ 1 file changed, 1 deletion(-)
+
+commit aee24281ae38e38e738f5f6c88ac792b2f2e8538
+Author: Valtteri Olejniczak <valtteri.olejniczak@outlook.com>
+Date:   Mon Mar 16 17:27:06 2020 +0200
+
+    poistettiin ja lisättiin tekstiä tiedostosta tiedosto.txt
+
+ tiedosto.txt | 4 +++-
+ 1 file changed, 3 insertions(+), 1 deletion(-)
+
+commit 49c624bd0e2a59c09ed712ccbc7413d962a253bf
+Author: Valtteri Olejniczak <valtteri.olejniczak@outlook.com>
+Date:   Mon Mar 16 17:18:56 2020 +0200
+
+    lisättiin tiedostoon tiedosto.txt paljon tekstiä
+
+ tiedosto.txt | 10 ++++++++++
+ 1 file changed, 10 insertions(+)
+
+commit 0054eae69a1786e0cd09391776c8f055fa8716c5
+Author: Valtteri Olejniczak <valtteri.olejniczak@outlook.com>
+Date:   Mon Mar 16 16:53:44 2020 +0200
+
+    lisättiin hakemisto stuff
+
+ stuff/uusitiedosto.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit c6e9125b817e87c4b61eed15e0084fa5d0adcf39
+Author: Valtteri Olejniczak <valtteri.olejniczak@outlook.com>
+Date:   Mon Mar 16 16:49:02 2020 +0200
+
+    tehtiin muutoksia
+
+ toinen.txt | 1 +
+ 1 file changed, 1 insertion(+)
+
+commit 42cfd3b0f7463967d3278be030e1bee9ae929921
+Author: Valtteri Olejniczak <valtteri.olejniczak@outlook.com>
+Date:   Sun Mar 15 18:39:41 2020 +0200
+
+    tehtiin lisäys
+
+ kolmas.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 18919fd60c87b8482302a68934f2d46da70647ee
+Author: Valtteri Olejniczak <valtteri.olejniczak@outlook.com>
+Date:   Sun Mar 15 18:35:13 2020 +0200
+
+    muutos ja lisäys
+
+ tiedosto.txt | 1 +
+ toinen.txt   | 0
+ 2 files changed, 1 insertion(+)
+
+commit 007304e9aeb93d34a38840ffa36546f9cd933b07
+Author: Valtteri Olejniczak <valtteri.olejniczak@outlook.com>
+Date:   Sun Mar 15 18:31:45 2020 +0200
+
+    tiedosto.txt luotu
+
+ tiedosto.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
