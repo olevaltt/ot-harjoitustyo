@@ -1,4 +1,4 @@
-##### Vaatimusmäärittely
+# Vaatimusmäärittely
 
 ### Sovelluksen tarkoitus
 
@@ -10,14 +10,14 @@ Sovlluksella on yksi käyttäjärooli, *normaali käyttäjä*.
 
 ### Perusversion tarjoama toiminnallisuus
 
-# Ennen kirjautumista
+#### Ennen kirjautumista
 
 -käyttäjä voi luoda uuden käyttäjätunnuksen
 	-tunnuksen täytyy olla uniikki
 -käyttäjä voi kirjautua ohjelmaan
 	-jotta kirjautuminen onnistuu, on käyttäjätunnuksen oltava olemassa ja oikein syötetty
 
-# Kirjautumisen jälkeen
+#### Kirjautumisen jälkeen
 
 -käyttäjä voi lisätä tehtäväiä
 	-myös vastaus tulee lisätä
