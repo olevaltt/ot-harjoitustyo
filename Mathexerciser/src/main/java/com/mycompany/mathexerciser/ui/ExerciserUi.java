@@ -2,7 +2,9 @@
 package com.mycompany.mathexerciser.ui;
 
 import java.util.*;
-import com.mycompany.mathexerciser.domain.User;
+import java.sql.*;
+import dao.Database;
+
 
 public class ExerciserUi {
     
@@ -10,32 +12,21 @@ public class ExerciserUi {
         Scanner reader = new Scanner(System.in);
         
         System.out.println("Welcome");
+        Database db = new Database();
+//        try {
+//            db.createDB();
+//        
+//        } catch (SQLException e) {
+//            System.out.println("Database creation failed");
+//            return;
+//        }
+        
+        System.out.println("What do you want to do?");
+        System.out.println("exit (1)");
+        System.out.println("Add a problem (2)");
         String input = reader.nextLine();
-        
-        while(true) {
-            
-            switch(input) {
-                
-                case "exit":
-                    System.out.println("Shutting down");
-                    System.exit(0);
-                    break;
-                
-            }
-            
-            
-        
-        String name = reader.nextLine();
-        String username = reader.nextLine();
-    
-        User  user = new User(name, username);
-    
-    
-    
-    }
-        
-       
-        
-    
+        if (input == "1") {
+            System.exit(0);
+        }
     }
 }
